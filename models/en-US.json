@@ -1,0 +1,105 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "your persona home",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+            "Thank you",
+            "Cancel"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+            "Thank you",
+            "Stop"
+          ]
+        },
+        {
+          "name": "applyLoanIntent",
+          "samples": [
+            "Apply for a loan",
+            "Apply for the loan"
+          ]
+        },
+        {
+          "name": "favoriteIntent",
+          "samples": [
+            "Add this house to my favorites",
+            "mark this house as my favorites",
+            "Add it to my favorites",
+            "mark it as my favorites",
+            "Add this house to my favorite list"
+          ]
+        },
+        {
+          "name": "moreDetailsIntent",
+          "samples": [
+            "More details"
+          ]
+        },
+        {
+          "name": "nextListingIntent",
+          "samples": [
+            "Next"
+          ]
+        },
+        {
+          "name": "openFavoriteIntent",
+          "samples": [
+            "Open my favorite options",
+            "What are my favorite options",
+            "Open my favorite homes",
+            "What are my favorites",
+            "List my favorites",
+            "open my favorite houses"
+          ]
+        },
+        {
+          "name": "openHouseIntent",
+          "samples": [
+            "Show open houses",
+            "Show open houses near me",
+            "Show available open houses",
+            "What open houses are near me",
+            "Is there any open houses this weekend"
+          ]
+        },
+        {
+          "name": "openHouseNextIntent",
+          "samples": [
+            "next open house"
+          ]
+        },
+        {
+          "name": "preferenceIntent",
+          "samples": [
+            "What are your preferences",
+            "What preferences do you have"
+          ]
+        },
+        {
+          "name": "searchPersonaHomeIntent",
+          "samples": [
+            "Find my persona home",
+            "Find my dream home",
+            "What's my persona home",
+            "What are my persona home options"
+          ]
+        },
+        {
+          "name": "yesNoIntent",
+          "samples": [
+            "Yes"
+          ]
+        }
+      ]
+    }
+  }
+}

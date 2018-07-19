@@ -1,0 +1,24 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "YourPersonaHome",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/3efc/252aac79231d49398d00fc8acda85c5a/APP_ICON?versionId=eI8LWBFr8lEspFs_JR.vXQl7.pwi_U3L&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074537&Signature=TdFgCBiYVozkZyMIvAcHWgscKkw%3D",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/cfbc/1d99cbae6cf34067a002a6abff7fd535/APP_ICON_LARGE?versionId=Ov_ELLlvKCMg7lZdIk7xAarG4sA1fh0y&AWSAccessKeyId=AKIAIEYXX6DHY7O4XWMA&Expires=1532074537&Signature=4tFLJtf%2F8DhGdfF6PWvyjFY1J%2B4%3D"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "./lambda/us-east-1_YourPersonaHome"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}
